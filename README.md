@@ -49,7 +49,7 @@ Feel free to take a look and provide any feedback you may have!
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Houssam-nxy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
 
