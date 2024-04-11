@@ -51,6 +51,11 @@ Feel free to take a look and provide any feedback you may have!
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Houssam-nxy)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/houssam-el-khesassi/)
