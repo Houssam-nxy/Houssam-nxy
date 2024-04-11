@@ -12,11 +12,9 @@ As a backend developer, I bring a wealth of experience to the table. Welcome to 
 
 ## Projects
 
-Here are a few projects I'm proud of:
+Please take a moment to browse through my GitHub repositories to explore my projects in detail.
 
-- take a look
-
-Feel free to explore them and provide feedback!
+Feel free to take a look and provide any feedback you may have!
 
 ## Skills
 
