@@ -55,6 +55,6 @@ Feel free to take a look and provide any feedback you may have!
 ## Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/houssam-el-khesassi/)
-- Email: [Your Email Address](mailto:elkhesassi@gmail.com)
+- Email: [Email Address](mailto:elkhesassi@gmail.com)
 
 Let's connect and collaborate! Feel free to reach out to me. 😊
