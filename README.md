@@ -16,9 +16,13 @@ Front-end focused developer with strong backend fundamentals. Passionate about b
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houssam-nxy&show_icons=true&theme=tokyonight&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Houssam-nxy&theme=tokyonight)
 
 ---
 
