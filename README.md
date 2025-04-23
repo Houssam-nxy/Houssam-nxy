@@ -1,60 +1,64 @@
-# Hello, I'm Houssam El Khesassi! 👋
+# 👋 Hello, I'm Houssam El Khesassi
 
-As a backend developer, I bring a wealth of experience to the table. Welcome to my GitHub profile! Here, you'll explore my projects, contributions, and more.
+As a backend developer with a growing foundation in cybersecurity and modern web technologies, I specialize in building secure, scalable, and efficient systems. Welcome to my GitHub – feel free to explore my projects and reach out!
 
-## About Me
+---
 
-- 🌱 I’m currently learning new techniques and technologies to enhance my skills.
-- 💬 Ask me about anything related to backend development, cybersecurity, or project management.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/houssam-el-khesassi/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe I was born to do this! 😄
+## 🧑‍💻 About Me
 
-## Projects
+- 🔍 Currently expanding my skills in backend architecture and security practices  
+- 💬 Happy to talk about backend development, project structuring, and cybersecurity fundamentals  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/houssam-el-khesassi/)  
+- 😄 Pronouns: He/Him  
 
-- Please take a moment to browse through my GitHub repositories to explore my projects in detail.
+---
 
-Feel free to take a look and provide any feedback you may have!
+## 🚀 Projects
 
-## Skills
+Explore my repositories to see real-world applications of backend services, REST APIs, and more.  
+📌 *Your feedback is always welcome!*
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<details>
+  <summary>📚 More Skills</summary>
 
 ### Web Development
-
-- HTML5
-- CSS3
-- Responsive Web Design
-- CSS Preprocessors (SASS, LESS,...)
-- JavaScript Frameworks (React,...)
-- Frontend Build Tools (Webpack, Gulp,...)
-- RESTful API Development
-- Database Management (MySQL, PostgreSQL, MongoDB)
-
-### Python
-
-- Python Programming Language
-- Web Frameworks (Django, Flask)
+- HTML5 / CSS3 / Responsive Design  
+- CSS Preprocessors (SASS, LESS)  
+- JavaScript Frameworks (React)  
+- RESTful API Design & Development  
 
 ### Cybersecurity
+- Vulnerability Management & IDPS  
+- Network Protocols & Threat Analysis  
+- SIEM, IAM & Secure SDLC Principles  
+- GDPR / HIPAA / PCI DSS Awareness  
 
-- Network Architecture and Protocols
-- Intrusion Detection and Prevention Systems (IDPS)
-- Vulnerability Assessment and Management
-- Threat Intelligence and Analysis
-- Security Information and Event Management (SIEM)
-- Identity and Access Management (IAM)
-- Secure Software Development Lifecycle (SDLC)
-- Compliance Frameworks (GDPR, HIPAA, PCI DSS)
-- Digital Forensics and Incident Response
-- Social Engineering Awareness and Prevention
+</details>
 
-## Top Languages
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact&theme=tokyonight)
 
-## Get in Touch
+---
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/houssam-el-khesassi/)
-- Email: [Email Address](mailto:elkhesassi@gmail.com)
+## 📬 Contact
 
-Let's connect and collaborate! Feel free to reach out to me. 😊
+- 🔗 [LinkedIn](https://www.linkedin.com/in/houssam-el-khesassi/)  
+- 📧 [elkhesassi@gmail.com](mailto:elkhesassi@gmail.com)  
+
+Let’s connect and collaborate on impactful projects!
