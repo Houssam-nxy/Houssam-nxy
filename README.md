@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Houssam El Khesassi</h1>
+<h1 align="center">Hey there, I'm Houssam El Khesassi</h1>
 
 <p align="center">
   Front-end developer | Backend capable | Cybersecurity aware  
@@ -15,13 +15,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a front-end developer with a strong backend foundation, focused on building fast, accessible, and scalable web apps. I care about UI/UX, clean code, and security best practices.
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,python,django,mongodb,postgres,docker,linux" />
@@ -29,7 +29,7 @@ I'm a front-end developer with a strong backend foundation, focused on building 
 
 ---
 
-### 📈 GitHub Highlights
+### GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact&theme=gruvbox&langs_count=8" />
@@ -39,7 +39,7 @@ I'm a front-end developer with a strong backend foundation, focused on building 
 
 ---
 
-### 🧪 Current Focus
+### Current Focus
 
 - Building modern, composable UIs with React and TailwindCSS  
 - Exploring AI tools for real-world application  
@@ -48,7 +48,7 @@ I'm a front-end developer with a strong backend foundation, focused on building 
 ---
 
 <details>
-  <summary>🧠 Fun fact & mindset</summary>
+  <summary>Fun fact & mindset</summary>
   <blockquote>
     <p>"Code isn't just logic — it's communication. I build with clarity and intention."</p>
   </blockquote>
