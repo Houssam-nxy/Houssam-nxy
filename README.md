@@ -24,7 +24,13 @@ I'm a front-end developer with a strong backend foundation, focused on building 
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,python,django,mongodb,laravel,php,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,python,django,mongodb,postgres,docker,linux" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=laravel,php,vue,git,webpack,sass,typescript" target="_blank">
+    <img src="https://img.shields.io/badge/And%20More-%F0%9F%93%9B-blue?style=flat-square" alt="And more" />
+  </a>
 </p>
 
 ---
