@@ -45,7 +45,6 @@ I'm a front-end developer with a strong backend foundation, focused on building 
 
 </div>
 
-
 ---
 
 ### Current Focus
