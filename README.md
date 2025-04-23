@@ -31,11 +31,14 @@ I'm a front-end developer with a strong backend foundation, focused on building 
 
 ### GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact&theme=gruvbox&langs_count=8" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houssam-nxy&theme=gruvbox" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssam-nxy&layout=compact&theme=gruvbox&langs_count=8" height="165" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houssam-nxy&theme=gruvbox" height="165" />
+
+</div>
+
 
 ---
 
